@@ -182,3 +182,13 @@
 
 ```
 
+## 资源：
+
+官方文档：https://echarts.apache.org/handbook/zh/get-started/
+
+Echarts官方网站： https://echarts.apache.org/zh/index.html
+
+资源网站：https://www.makeapie.cn/echarts
+
+Web网页的基础知识：http://www.w3school.com.cn/
+
